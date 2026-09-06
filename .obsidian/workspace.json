@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/archive.md",
+                "file": "content/posts/2026/09/Hello-World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "archive"
+              "title": "Hello-World"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/archive.md",
+                "file": "content/posts/2026/09/Hello-World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/archive.md",
+                "file": "content/posts/2026/09/Hello-World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/archive.md",
+                "file": "content/posts/2026/09/Hello-World.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,18 @@
   },
   "active": "ab1138d2030742a0",
   "lastOpenFiles": [
+    "public/tags/hello/page/1/index.html",
+    "public/tags/hello/page/1",
+    "public/tags/hello/page",
+    "public/tags/hello/index.xml",
+    "public/tags/hello/index.html",
+    "public/tags/hello",
+    "public/posts/2026/09/hello-world/index.html",
+    "public/posts/2026/09/hello-world",
+    "public/posts/2026/09",
+    "content/archive.md",
+    "content/posts/2026/09/Hello-World.md",
+    "content/posts/2026/09",
     "content/photos/_index.md"
   ]
 }
