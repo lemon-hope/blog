@@ -5,6 +5,7 @@ tags:
   - first
   - hello
 draft: false
+url: /posts/hello=world
 ---
 Hello world, and welcome to my new blog.  
 Here I will share short texts about my passions: operating systems, distributed systems, cybersecurity, essays, and various other subjects.

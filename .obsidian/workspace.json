@@ -190,6 +190,8 @@
   },
   "active": "ab1138d2030742a0",
   "lastOpenFiles": [
+    "public/posts/hello=world/index.html",
+    "public/posts/hello=world",
     "public/tags/hello/page/1/index.html",
     "public/tags/hello/page/1",
     "public/tags/hello/page",
@@ -201,7 +203,6 @@
     "public/posts/2026/09",
     "content/archive.md",
     "content/posts/2026/09/Hello-World.md",
-    "content/posts/2026/09",
     "content/photos/_index.md"
   ]
 }
